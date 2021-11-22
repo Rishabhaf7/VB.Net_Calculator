@@ -1,0 +1,11 @@
+C:\Users\Rishabh Gupta\Downloads\Technos.in\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+C:\Users\Rishabh Gupta\Downloads\Technos.in\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+C:\Users\Rishabh Gupta\Downloads\Technos.in\Calculator1\Calculator1\bin\Debug\Calculator1.xml
+C:\Users\Rishabh Gupta\Downloads\Technos.in\Calculator1\Calculator1\obj\Debug\Calculator1.vbproj.AssemblyReference.cache
+C:\Users\Rishabh Gupta\Downloads\Technos.in\Calculator1\Calculator1\obj\Debug\Calculator1.Form1.resources
+C:\Users\Rishabh Gupta\Downloads\Technos.in\Calculator1\Calculator1\obj\Debug\Calculator1.Resources.resources
+C:\Users\Rishabh Gupta\Downloads\Technos.in\Calculator1\Calculator1\obj\Debug\Calculator1.vbproj.GenerateResource.cache
+C:\Users\Rishabh Gupta\Downloads\Technos.in\Calculator1\Calculator1\obj\Debug\Calculator1.vbproj.CoreCompileInputs.cache
+C:\Users\Rishabh Gupta\Downloads\Technos.in\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+C:\Users\Rishabh Gupta\Downloads\Technos.in\Calculator1\Calculator1\obj\Debug\Calculator1.xml
+C:\Users\Rishabh Gupta\Downloads\Technos.in\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
